@@ -1,4 +1,4 @@
-# Welcome on 3Displayer wordpress Plugin
+# Welcome on 3Displayer the wordpress plugin for ThreeJs
 
 ##### How to display (easily) a 3d model on a wordpress site ?
 
